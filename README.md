@@ -1,11 +1,11 @@
 # Constructors and Prototypal Inheritance Outline
 ## Constructors
-* Discuss what are constructors?
-* Show examples of constructors.
-* Discuss why are they useful?
+* What constructors are.
+* Examples of constructors.
+* Why constructors are useful.
 
 ### Objective
-* Student can give an example of a constructor.
+* Students can give an example of a constructor.
 
 ## Prototypal Inheritance
 * Discuss what is prototypal inheritance?
