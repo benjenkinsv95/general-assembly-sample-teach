@@ -1,14 +1,19 @@
 # Constructors and Prototypal Inheritance Outline
 ## Constructors
-* What are constructors?
-* Why are they useful?
-* What is an example of a constructor?
+* Discuss what are constructors?
+* Show examples of constructors.
+* Discuss why are they useful?
+
+### Objective
+* Student can give an example of a constructor.
 
 ## Prototypal Inheritance
-* What is prototypal inheritance?
-* Why is it useful?
-* What is an example of prototypal inheritance?
-* What flexibility does prototypal inheritance provide?
+* Discuss what is prototypal inheritance?
+* Discuss why is it useful?
+
+### Objectives
+* Students can give an example of prototypal inheritance.
+* Students can explain what flexibility prototypal inheritance provides.
 
 # Live Code
 The code used during this lecture can be found [here.](https://codepen.io/collection/nZKGbv/)
