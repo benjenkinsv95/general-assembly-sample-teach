@@ -17,4 +17,4 @@
 * Students can explain what flexibility prototypal inheritance provides.
 
 # Live Code
-The code used during this lecture can be found [here.](https://codepen.io/collection/nZKGbv/)
+The code used during this lecture can be found at [bit.ly/ga-sample](http://bit.ly/ga-sample)
