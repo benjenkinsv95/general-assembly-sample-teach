@@ -9,8 +9,10 @@
 * Students can give an example of a constructor.
 
 ## Prototypal Inheritance
-* Discuss what is prototypal inheritance?
-* Discuss why is it useful?
+* Discuss: What is prototypal inheritance?
+* Demonstrate: Example of inheriting properties.
+* Demonstrate: Example of inheriting methods.
+* Discuss: Why is prototypal inheritance useful?
 
 ### Objectives
 * Students can give an example of prototypal inheritance.
